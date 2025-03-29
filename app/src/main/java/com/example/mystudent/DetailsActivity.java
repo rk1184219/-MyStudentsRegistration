@@ -16,6 +16,7 @@ public class DetailsActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_details);
 
+        // this is id called detailed (changed from git hub);
         tvDetails = findViewById(R.id.tvDetails);
 
         // Change screen color to black
